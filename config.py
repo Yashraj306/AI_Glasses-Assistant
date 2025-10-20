@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
 
 
 # D:\ai_glasses\config.py
@@ -30,7 +27,7 @@ WAVE_OUTPUT_FILENAME = "command_audio.wav"
 MIC_DEVICE_INDEX = 1  # <--- REPLACE 1 WITH YOUR ACTUAL DEVICE INDEX
 
 
-# In[ ]:
+
 
 
 
