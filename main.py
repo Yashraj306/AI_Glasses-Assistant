@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 # D:\ai_glasses\main.py
@@ -171,7 +167,7 @@ if __name__ == "__main__":
     main_loop(yolo_model)
 
 
-# In[ ]:
+
 
 
 
