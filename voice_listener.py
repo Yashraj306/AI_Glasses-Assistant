@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
 
 
 # D:\ai_glasses\voice_listener.py
@@ -69,7 +66,7 @@ def listen_for_command(whisper_model):
     p.terminate()
 
 
-# In[ ]:
+
 
 
 
